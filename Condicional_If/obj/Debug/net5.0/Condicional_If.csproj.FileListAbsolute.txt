@@ -1,0 +1,16 @@
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\bin\Debug\net5.0\Condicional_If.exe
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\bin\Debug\net5.0\Condicional_If.deps.json
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\bin\Debug\net5.0\Condicional_If.runtimeconfig.json
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\bin\Debug\net5.0\Condicional_If.runtimeconfig.dev.json
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\bin\Debug\net5.0\Condicional_If.dll
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\bin\Debug\net5.0\ref\Condicional_If.dll
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\bin\Debug\net5.0\Condicional_If.pdb
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\obj\Debug\net5.0\Condicional_If.csproj.AssemblyReference.cache
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\obj\Debug\net5.0\Condicional_If.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\obj\Debug\net5.0\Condicional_If.AssemblyInfoInputs.cache
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\obj\Debug\net5.0\Condicional_If.AssemblyInfo.cs
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\obj\Debug\net5.0\Condicional_If.csproj.CoreCompileInputs.cache
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\obj\Debug\net5.0\Condicional_If.dll
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\obj\Debug\net5.0\ref\Condicional_If.dll
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\obj\Debug\net5.0\Condicional_If.pdb
+D:\Leticia\Projetos C#\Condicional_If\Condicional_If\obj\Debug\net5.0\Condicional_If.genruntimeconfig.cache
